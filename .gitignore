@@ -3,3 +3,4 @@ test.zip
 test/
 train_validation.zip
 train_validation/
+.ipynb_checkpoints/
